@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FAD7DC"
-    tools:context=".MainActivity2">
+    tools:context=".bottle_second_page">
 
     <TextView
         android:id="@+id/text1"
