@@ -3,7 +3,7 @@ package meandrick.martin.front_page_risaikuru;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+//comment
 public class front_page extends AppCompatActivity {
 
     @Override
