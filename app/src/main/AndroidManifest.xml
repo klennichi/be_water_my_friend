@@ -19,13 +19,7 @@
         <activity android:name=".cans_second_page" />
         <activity android:name=".mango_catcher_third_page" />
         <activity android:name=".bottle_second_page" />
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name=".front_page" />
     </application>
 
 </manifest>
